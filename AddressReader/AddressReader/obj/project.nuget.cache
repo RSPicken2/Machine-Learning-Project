@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "vLoSzzZ52A7Oq3aE+cHq2LS0qjXqv4QErZXFcdOL4HVT4Met0JUga7tcRG4lkE/NmJGZEa50mTYyLImn/1RheA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ghaft\\OneDrive\\A Level Work\\Computing\\0 - Coursework\\Backups\\20211205\\AddressReader\\AddressReader\\AddressReader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ghaft\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\ghaft\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\ghaft\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\ghaft\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

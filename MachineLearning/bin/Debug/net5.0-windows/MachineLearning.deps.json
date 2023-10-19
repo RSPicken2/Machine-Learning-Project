@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MachineLearning/1.0.0": {
+        "dependencies": {
+          "NeuralNetworkLibrary": "1.0.0.0"
+        },
+        "runtime": {
+          "MachineLearning.dll": {}
+        }
+      },
+      "NeuralNetworkLibrary/1.0.0.0": {
+        "runtime": {
+          "NeuralNetworkLibrary.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MachineLearning/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NeuralNetworkLibrary/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
